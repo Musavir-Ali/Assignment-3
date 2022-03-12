@@ -1,0 +1,6 @@
+
+The following are examples of valid variable names: age, gender, x25, age_of_hh_head.
+
+
+
+The $ sign is not allowed as the initial character of a user-defined variable. The period, the underscore, and the characters $, #, and @ can be used within variable names. For example, A. _$@#1 is a valid variable name.
